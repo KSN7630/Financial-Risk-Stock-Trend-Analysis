@@ -47,7 +47,7 @@ Key visualizations are generated to communicate findings:
 ## How to Run the Project
 1. **Clone the Repository**:
    ```bash
-   
+   git clone https://github.com/KSN7630/Financial-Risk-Stock-Trend-Analysis.git
 Install Required Libraries:
 bash
 Copy code
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 Run the Jupyter Notebook: Launch the notebook to explore the analysis and visualizations:
 bash
 Copy code
-jupyter notebook FAANG_Stock_Analysis.ipynb
+jupyter notebook Fianancial-Risk-And-Stock-Trend-Analysis.ipynb
 Technologies Used
 Programming Language: Python
 Libraries:
